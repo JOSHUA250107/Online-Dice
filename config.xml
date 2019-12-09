@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <widget version="1.0.0">
-    <name>App-Name</name>
+    <name>Online Dice</name>
     <description>
-        App-Beschreibung
+        Würfelapp
     </description>
     <author>
-        Dein Name
+        Joshua Trapani
     </author>
 
     <!-- General settings -->
